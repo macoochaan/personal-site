@@ -30,7 +30,100 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "UC San Diego",
+      "position": "PhD Student",
+      "website": "https://ucsd.edu",
+      "startDate": "2024-09",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [],
+      "logo": "/images/ucsd-logo.svg"
+    },
+    {
+      "company": "Developing Intelligence Lab",
+      "position": "Research Fellow",
+      "website": "",
+      "startDate": "2024-07",
+      "endDate": "Present",
+      "summary": "Part-time position",
+      "highlights": [],
+      "logo": ""
+    },
+    {
+      "company": "The University of Texas at Austin",
+      "position": "Laboratory Technician",
+      "website": "https://utexas.edu",
+      "startDate": "2022-06",
+      "endDate": "2024-07",
+      "summary": "Full-time position - 2 yrs 2 mos",
+      "highlights": [],
+      "logo": "/images/ut-austin-logo.svg"
+    },
+    {
+      "company": "UC San Diego Cognitive Tools Lab",
+      "position": "Undergraduate Researcher",
+      "website": "",
+      "startDate": "2021-03",
+      "endDate": "2022-06",
+      "summary": "San Diego, California, United States",
+      "highlights": [
+        "Completed an honors thesis investigating how abstract causal knowledge about intuitive physics can be transmitted between individuals through natural language, and identifying what properties characterize a good intuitive physics explanation, submitted to CogSci2022",
+        "Assisted the graduate student in studying how people can infer multiple physical variables simultaneously and compose them to generalize in a novel scenario"
+      ],
+      "logo": "/images/ucsd-logo.svg"
+    },
+    {
+      "company": "UC San Diego Language Comprehension Lab",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2020-01",
+      "endDate": "2021-04",
+      "summary": "San Diego, California, United States",
+      "highlights": [
+        "Collaborated to study the effect of verbal reduplication on event conceptualization and semantic priming on character identification",
+        "Coded experiments in JavaScript, HTML and CSS, analyzed experimental data in R, and conducted in-person and online experiments"
+      ],
+      "logo": "/images/ucsd-logo.svg"
+    },
+    {
+      "company": "Computer Science and Engineering Society",
+      "position": "Social Branch Staff",
+      "website": "",
+      "startDate": "2018-10",
+      "endDate": "2019-06",
+      "summary": "UCSD",
+      "highlights": [
+        "Organized social events such as movie nights for team bonding"
+      ],
+      "logo": "/images/ucsd-logo.svg"
+    },
+    {
+      "company": "Cognitive Science Student Association @ UCSD",
+      "position": "Professional and Academic Development Board Committee",
+      "website": "",
+      "startDate": "2018-10",
+      "endDate": "2019-06",
+      "summary": "UCSD",
+      "highlights": [
+        "Contacted professionals in both academia and industry to attend CSSA-hosted conferences and monthly talks"
+      ],
+      "logo": "/images/ucsd-logo.svg"
+    },
+    {
+      "company": "Cognitive Science Student Association @ UCSD",
+      "position": "Social Board Committee",
+      "website": "",
+      "startDate": "2018-10",
+      "endDate": "2019-06",
+      "summary": "UCSD",
+      "highlights": [
+        "Organized social events such as care packages giveaways for club members"
+      ],
+      "logo": "/images/ucsd-logo.svg"
+    }
+  ],
   "education": [
     {
       "institution": "GitHub University",

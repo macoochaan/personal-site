@@ -13,6 +13,24 @@
       width: 70%;
     }
   }
+  
+  /* CV Logo Styles */
+  .cv-item-title-with-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .cv-company-logo {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    flex-shrink: 0;
+  }
+  
+  .cv-item-title {
+    flex-grow: 1;
+  }
 </style>
 
 <div class="cv-container">
@@ -104,7 +122,12 @@
       {% for work in cv.work %}
       <li class="cv-item">
         <div class="cv-item-header">
-          <div class="cv-item-title">{{ work.position }}</div>
+          <div class="cv-item-title-with-logo">
+            {% if work.logo and work.logo != "" %}
+            <img src="{{ work.logo }}" alt="{{ work.company }} logo" class="cv-company-logo">
+            {% endif %}
+            <div class="cv-item-title">{{ work.position }}</div>
+          </div>
           <div class="cv-item-date">{{ work.startDate }}{% if work.endDate %} - {{ work.endDate }}{% endif %}</div>
         </div>
         <div class="cv-item-content">
