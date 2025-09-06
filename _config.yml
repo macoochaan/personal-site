@@ -22,13 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  avatar           : "profile-pic.png"
+  name             : "Jane Yang"
+  pronouns         : "she/her"  
+  bio              : "I am a PhD student in the Department of Computer Science and Engineering at UC San Diego. My research interests are in the intersection of machine learning and human-computer interaction."
+  location         : "San Diego"
+  employer         : "UC San Diego"
   email            : "none@example.org" 
 
   # Academic websites
