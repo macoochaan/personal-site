@@ -9,6 +9,6 @@ redirect_from:
 
 Hi Jane, good luck on your job search. Check [this](https://cat-bounce.com/) out.
 
-![Jane Cartoon](/images/jane.png) 
+![Jane](/images/jane.png) 
 
 Use [this](archive-layout-with-content) as a guide to edit this website.
